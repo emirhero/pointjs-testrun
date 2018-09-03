@@ -1,4 +1,4 @@
-import {CanvasSpace, Pt, Group} from "pts"
+import {CanvasSpace, Pt, Group} from "pts/dist/es5"
 
 Pts.namespace(window)
 
